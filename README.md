@@ -1,4 +1,5 @@
 ## Hi there 👋
+![GitHub followers](https://img.shields.io/github/followers/leolee-08?style=social)
 
 <!--
 **leolee-08/leolee-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
