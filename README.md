@@ -1,9 +1,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/leolee-08?style=social)
-![image](https://github.com/user-attachments/assets/2d26544b-e7e9-4e5e-8ed5-e5e3e588bf86)
-![GitHub stars](https://img.shields.io/github/stars/leolee-08?style=social)
-![image](https://github.com/user-attachments/assets/3c1c04ac-f605-4011-933c-e4a3b112b200)
-
 <!--
+![GitHub stars](https://img.shields.io/github/stars/leolee-08/README.md?style=social)
+
 **leolee-08/leolee-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
